@@ -21,4 +21,8 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ninjaa-exe&theme=tokyonight-duo&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<div align ="center">
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ninjaa-exe&theme=tokyonight-duo&hide_border=true&mode=weekly">
+</div>
+
