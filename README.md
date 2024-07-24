@@ -1,5 +1,5 @@
 <div align="center">
-<img src= https://steamuserimages-a.akamaihd.net/ugc/878622169394175091/2F8FB1C819BA20D7A5C92D0F0F3CAD8C29FC5371/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false width="1000" >
+<img src=https://i.redd.it/njjzqnbdy1na1.gif width="1000">
 </div>
 
 <br>
