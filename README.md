@@ -4,7 +4,7 @@
 
 # Guilherme Butzke
 
-Cybersecurity | Offensive Security | Pentesting
+Cybersecurity | Offensive Security | Penetration Testing
 
 Computer Science graduate focused on cybersecurity and offensive security.  
 CTF player at **0xBit** exploring penetration testing, web security and vulnerability research.
@@ -22,21 +22,29 @@ CTF player at **0xBit** exploring penetration testing, web security and vulnerab
 
 ---
 
-## Featured Repositories
+## Featured Projects
 
-These repositories represent my practical work and studies in offensive security.
+Some of the repositories that represent my work and studies in cybersecurity.
 
-- **Red-Team-Notes**  
-  Personal knowledge base for penetration testing, enumeration techniques and privilege escalation.
+- **red-team-notes**  
+  Knowledge base containing penetration testing methodologies, tools and vulnerability notes.
+
+- **pentest-scripts**  
+  Small tools and scripts developed during security labs and CTF challenges.
 
 - **HackTheBox**  
   Writeups and walkthroughs of machines solved on HackTheBox.
 
-- **Pentest Scripts**  
-  Small tools and scripts used during reconnaissance and enumeration.
+- **DNSResolver / PortScan**  
+  Networking tools developed while studying security and network programming.
 
-- **Network Security Tools**  
-  Experiments with port scanning, banner grabbing and network enumeration.
+---
+
+## Platforms
+
+- Hack The Box
+- TryHackMe
+- CTF competitions
 
 ---
 
@@ -52,13 +60,7 @@ These repositories represent my practical work and studies in offensive security
 
 ---
 
-## Platforms
-
-- Hack The Box
-- TryHackMe
-- CTF competitions
-
----
+## GitHub Activity
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ninjaa-exe&theme=tokyonight-duo&hide_border=true&mode=weekly">
