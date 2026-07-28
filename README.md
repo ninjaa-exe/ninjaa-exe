@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.redd.it/njjzqnbdy1na1.gif" width="1000">
+<img src="https://media1.tenor.com/m/0oH_oZ43RxEAAAAd/luffy-gear-5.gif" width="1000">
 </div>
 
 # Guilherme Butzke
